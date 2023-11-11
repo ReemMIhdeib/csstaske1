@@ -1,0 +1,83 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.clr{
+    clear: both;
+}
+a{
+    text-decoration: none;
+}
+
+.container{
+    width: 80%;
+    margin: auto;
+
+}
+
+.navbar{
+    background-color: black;
+    height: 50px;
+
+}
+
+.navbar .logo{
+    float: left;
+   margin-top: 15px;
+}
+
+.logo img {
+    width: 50%;
+
+}
+
+ .listT {
+ 
+    float: right;
+    margin-top: 15px;
+
+   
+}
+.listT ul{
+    list-style-type: none;
+}
+.listT ul li{
+    float: left;
+    margin-right: 15px;
+    
+
+}
+.listT a{
+    color: white;
+
+}
+.PORTFOLIO{
+    margin-top: 50px;
+    text-align: center;
+    align-items: center;
+    background-color: aliceblue;
+
+}
+.PORTFOLIO.ITEMS{
+    text-align: center;
+    align-items: center;
+  
+ 
+    
+    Float: left;
+    width: 33.33%;
+    
+
+}
+.itemport{
+    margin-right: 15px;
+    margin-top: 15px;
+}
+
+.PORTFOLIO  img{
+
+  float: left;
+  width: 30%;
+
+}
